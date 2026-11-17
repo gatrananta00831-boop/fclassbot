@@ -1,0 +1,17 @@
+# Secrets — JANGAN pernah diunggah ke GitHub
+.streamlit/secrets.toml
+
+# Environment
+.env
+venv/
+env/
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
